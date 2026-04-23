@@ -22,6 +22,7 @@ If you are building this stack, start with the artifacts below. Each one is refe
 |---|---|---|
 | 1 | Why I'm Running Alpha AI Security Software on a $5 VPS | [Read](https://adammagill.substack.com/p/why-im-running-alpha-ai-security) |
 | 2 | Securing the Foundation Before AI Touches the Server | [Read](https://adammagill.substack.com/p/securing-the-foundation-before-ai) |
+| 3 | First Contact: Getting NemoClaw Running When the Docs Assume You Have a GPU | [Read](https://adammagill.substack.com/p/first-contact-getting-nemoclaw-running) |
 
 ---
 
