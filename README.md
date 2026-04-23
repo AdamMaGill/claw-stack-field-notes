@@ -14,6 +14,10 @@ If you are building this stack, start with the artifacts below. Each one is refe
 |---|---|---|---|
 | [vps-hardening.sh](https://github.com/AdamMaGill/claw-stack-field-notes/blob/main/vps-hardening.sh) | VPS hardening from bare Ubuntu 24.04 - UFW, SSH, auditd, cloudflared, unattended-upgrades | Ubuntu 24.04, April 2026 | [Post 2](https://adammagill.substack.com/p/securing-the-foundation-before-ai) |
 
+| Artifact | Description | Valid As Of | Post |
+|---|---|---|---|
+| [vps-hardening.sh](https://github.com/AdamMaGill/claw-stack-field-notes/blob/main/vps-hardening.sh) | VPS hardening from bare Ubuntu 24.04 - UFW, SSH, auditd, cloudflared, unattended-upgrades | Ubuntu 24.04, April 2026 | [Post 2](https://adammagill.substack.com/p/securing-the-foundation-before-ai) |
+| [post-onboard.sh](https://github.com/AdamMaGill/claw-stack-field-notes/blob/main/post-onboard.sh) | Three fixes required after every nemoclaw onboard - registry sync, bridge user drop-in, sandbox name env var | NemoClaw main, OpenShell v0.0.24, April 2026 | [Post 3](https://adammagill.substack.com/p/first-contact-getting-nemoclaw-running) |
 ---
 
 ## Series Posts
